@@ -1,6 +1,6 @@
 # Desafio 5 — Testes E2E com Cypress
 
-Alunos: Arthur Nantes Trento, Gabriel Santos Palermo e Luiz Otávio da Rosa
+Alunos: Arthur Nantes Trento, Gabriel Santos Palermo e Luiz Otávio da Rosa.
 
 Projeto de testes automatizados da loja de demonstração SauceDemo, desenvolvido com Cypress.
 
